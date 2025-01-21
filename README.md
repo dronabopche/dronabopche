@@ -63,11 +63,13 @@ Welcome to my GitHub! I'm a passionate **Flutter developer** who specializes in 
 ### 📬 How to Reach Me:
 - **Email**: [Click](mailto:dronabopche@gmail.com)
 - **LinkedIn**: [Click](www.linkedin.com/in/drona-bopche-2345292b1)
+- **LeetCode**:[Click](https://leetcode.com/u/Drona_Bopche/)
 
 Feel free to reach out or collaborate! 😄
 
 ### 📄 Check out my Resume:
-[Download Resume]([https://example.com/resume](https://docs.google.com/document/d/1OiIMx0iRiAMbHXai4NtNbjaq-_PVm7zru06fqz4pmeM/edit?usp=sharing))
+
+[Download Resume](https://docs.google.com/document/d/1OiIMx0iRiAMbHXai4NtNbjaq-_PVm7zru06fqz4pmeM/edit?usp=sharing)
 
 ### 💬 Let's build something amazing together! 🚀
 
