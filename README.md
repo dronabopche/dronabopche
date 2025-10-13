@@ -8,11 +8,6 @@
 
 </div>
 
-<div align="center">
-  
-<img src="assets/logo.png" alt="Drona Logo" width="120" height="120" style="border-radius: 50%;">
-
-</div>
 
 Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps with Flutter while exploring the frontiers of quantum computing. When I'm not coding, you'll find me solving algorithmic challenges or contributing to open-source projects.
 
@@ -155,6 +150,11 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 - **Advanced Algorithm Design** & Optimization
 
 ---
+<div align="center">
+  
+<img src="assets/logo.png" alt="Drona Logo" width="120" height="120" style="border-radius: 50;">
+
+</div>
 
 <div align="center">
 
