@@ -151,8 +151,8 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 <div align="center">
-  
-<img src="assets/logo.png" alt="Drona Logo" width="120" height="120" style="border-radius: 50;">
+
+<img src="assets/logo.png" alt="Drona logo" heigth="50% " width="50% ">
 
 </div>
 
