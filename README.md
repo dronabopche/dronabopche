@@ -2,6 +2,18 @@
 **Flutter Developer | Quantum Computing Enthusiast | Problem Solver**  
 *Building digital experiences that matter*
 
+<div align="center">
+
+<img src="assets/banner.png" alt="Drona Banner" width="100%">
+
+</div>
+
+<div align="center">
+  
+<img src="assets/logo.png" alt="Drona Logo" width="120" height="120" style="border-radius: 50%;">
+
+</div>
+
 Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps with Flutter while exploring the frontiers of quantum computing. When I'm not coding, you'll find me solving algorithmic challenges or contributing to open-source projects.
 
 ---
@@ -71,6 +83,8 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ![Drona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drona&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drona&layout=compact&theme=radical)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Drona_Bopche?theme=dark&font=Karma)
 
 **🚀 190+ LeetCode Problems Solved**  
@@ -96,17 +110,17 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-## 💼 Experience & Leadership
+## 💼 Professional Experience
 
-### **GDG Shillong** - *Volunteer*
-> Organized workshops and served as tutor for Flutter development sessions
+### **GDG Shillong** - *Technical Volunteer*
+> Organized workshops and served as tutor for Flutter development sessions, mentoring 50+ students in mobile app development fundamentals.
 
 ### **Cipher Club** - *Assistant Executive Secretary*
-> Organized **5+ technical events** | Created hybrid treasure hunt games | Led team coordination
+> Organized **5+ technical events** with 200+ participants | Created hybrid treasure hunt games | Led team coordination and technical planning
 
 ---
 
-## 🛠️ Development Setup
+## 🛠️ Development Environment
 
 ### **💻 Hardware**
 ![Mac Pro M1](https://img.shields.io/badge/Mac_Pro_M1-000000?style=flat&logo=apple&logoColor=white)
@@ -148,6 +162,8 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ⭐ *Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
 
+**Visitors Count**  
+![Visitor Count](https://komarev.com/ghpvc/?username=drona&color=blueviolet&style=flat-square)
+
 </div>
-```
 
