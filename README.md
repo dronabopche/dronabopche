@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Drona Banner" width="100%">
+<img src="assets/banner1.png" alt="Drona Banner" width="100%">
 
 </div>
 
@@ -152,7 +152,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 ---
 <div align="center">
 
-<img src="assets/logo.png" alt="Drona logo" heigth="50% " width="50% ">
+<img src="assets/logo1.png" alt="Drona logo" heigth="50% " width="50% ">
 
 </div>
 
