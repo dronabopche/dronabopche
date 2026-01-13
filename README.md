@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ### **⚛️ 100 Quantum Computing Projects**
 
-[![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Projects)
+[![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Project)#
 
 > A structured collection of **100 quantum computing projects**, ranging from fundamentals (qubits, superposition, entanglement) to advanced concepts like quantum algorithms, simulations, and post-quantum cryptography.
 
@@ -76,7 +76,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ### **📱 100 Flutter Projects**
 
-[![Repo](https://img.shields.io/badge/GitHub-100--Flutter--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Flutter-Projects)
+[![Repo](https://img.shields.io/badge/GitHub-100--Flutter--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Flutter-Project)
 
 > A continuously growing repository of **100 Flutter applications**, covering UI design, animations, Firebase integration, performance optimization, and production-ready architectures.
 
@@ -106,7 +106,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 ### **North Eastern Hill University, Shillong**
 
 🎓 **B.Tech in Information Technology**
-📅 *Aug 2023 – July 2027* | **CGPA: 8.27**
+📅 *Aug 2023 – July 2027* | **CGPA: 9.01**
 
 ### **Certifications & Achievements**
 
@@ -136,7 +136,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dronabopche@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dronabopche@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/drona-bopche-2345292b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/drona-bopche)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Drona_Bopche/)
 
 </div>
