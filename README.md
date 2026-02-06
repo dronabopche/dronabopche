@@ -92,7 +92,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronabopche&layout=compact&theme=radical" width="48%" />
 
-<img src="https://leetcard.jacoblin.cool/Drona_Bopche?theme=dark&font=Karma" width="60%" />
+<img src="https://leetcard.jacoblin.cool/dronabopche?theme=dark&font=Karma" width="60%" />
 
 **🚀 190+ LeetCode Problems Solved**
 **🎯 Target: 250+ | Focus: DP, Graphs, Greedy Algorithms**
@@ -136,8 +136,8 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dronabopche@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dronabopche@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/drona-bopche)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Drona_Bopche/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dronabopche)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/dronabopche/)
 
 </div>
 
