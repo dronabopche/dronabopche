@@ -13,18 +13,6 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-## 🧠 Live Developer Status
-
-```yaml
-Name: Drona Bopche
-Role: AI/ML Developer | Quantum Computing Enthusiast | Flutter Builder
-Focus: DSA + Scalable Flutter + ML from scratch + Quantum Algorithms
-Currently Building: 100 Quantum Projects + 100 AI/ML Projects + 100 Flutter Apps
-Daily Routine: LeetCode + Projects + Open Source
-````
-
----
-
 ## 🚀 Tech Stack & Superpowers
 
 ### **Mobile Development**
@@ -117,11 +105,11 @@ Daily Routine: LeetCode + Projects + Open Source
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=radical&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=vue-dark&hide_border=true" width="70%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=vue-dark&no-frame=true&row=1&column=7" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=redical&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=vue-dark&hide_border=true" width="100%" />
 
 </div>
 
@@ -183,6 +171,6 @@ Daily Routine: LeetCode + Projects + Open Source
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif)"/>
+<img src="https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif"/>
 
 </div>
