@@ -1,6 +1,6 @@
 # Hi, I'm Drona 👨‍💻
 
-**AL/ML Developer | Quantum Computing Enthusiast | Flutter Problem Solver**
+**AI/ML Developer | Quantum Computing Enthusiast | Flutter Problem Solver**  
 *Building digital experiences that matter*
 
 <div align="center">
@@ -10,6 +10,18 @@
 </div>
 
 Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps with Flutter while exploring the frontiers of quantum computing. When I'm not coding, you'll find me solving algorithmic challenges or contributing to open-source projects.
+
+---
+
+## 🧠 Live Developer Status
+
+```yaml
+Name: Drona Bopche
+Role: AI/ML Developer | Quantum Computing Enthusiast | Flutter Builder
+Focus: DSA + Scalable Flutter + ML from scratch + Quantum Algorithms
+Currently Building: 100 Quantum Projects + 100 AI/ML Projects + 100 Flutter Apps
+Daily Routine: LeetCode + Projects + Open Source
+````
 
 ---
 
@@ -56,7 +68,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ### **⚛️ 100 Quantum Computing Projects**
 
-[![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Project)#
+[![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Project)
 
 > A structured collection of **100 quantum computing projects**, ranging from fundamentals (qubits, superposition, entanglement) to advanced concepts like quantum algorithms, simulations, and post-quantum cryptography.
 
@@ -96,6 +108,20 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 **🚀 190+ LeetCode Problems Solved**
 **🎯 Target: 250+ | Focus: DP, Graphs, Greedy Algorithms**
+
+</div>
+
+---
+
+## 🟢 GitHub Status Window
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=radical&hide_border=true" width="70%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=redical&hide_border=true" width="100%" />
 
 </div>
 
@@ -153,3 +179,10 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif)"/>
+
+</div>
