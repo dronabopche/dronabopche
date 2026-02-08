@@ -88,11 +88,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dronabopche&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronabopche&layout=compact&theme=graywhite&hide_border=true" width="48%" />
-
-<img src="https://leetcard.jacoblin.cool/dronabopche?theme=light&font=Karma" width="60%" />
+<img src="https://leetcard.jacoblin.cool/dronabopche?theme=dark&font=Karma" width="60%" />
 
 **🚀 190+ LeetCode Problems Solved**  
 **🎯 Target: 250+ | Focus: DP, Graphs, Greedy Algorithms**
@@ -105,11 +101,11 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=github-light&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=nightowl&hide_border=true" width="70%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=flat&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=nightowl&no-frame=true&row=1&column=7" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=minimal&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=nightowl&hide_border=true" width="100%" />
 
 </div>
 
