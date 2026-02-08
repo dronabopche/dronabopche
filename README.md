@@ -88,13 +88,13 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dronabopche&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dronabopche&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronabopche&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dronabopche&layout=compact&theme=graywhite&hide_border=true" width="48%" />
 
-<img src="https://leetcard.jacoblin.cool/dronabopche?theme=dark&font=Karma" width="60%" />
+<img src="https://leetcard.jacoblin.cool/dronabopche?theme=light&font=Karma" width="60%" />
 
-**🚀 190+ LeetCode Problems Solved**
+**🚀 190+ LeetCode Problems Solved**  
 **🎯 Target: 250+ | Focus: DP, Graphs, Greedy Algorithms**
 
 </div>
@@ -105,11 +105,11 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=vue-dark&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=github-light&hide_border=true" width="70%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=vue-dark&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=flat&no-frame=true&row=1&column=7" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=vue-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dronabopche&theme=minimal&hide_border=true" width="100%" />
 
 </div>
 
@@ -171,6 +171,6 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif"/>
+<img src="https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif" width="100%" height="420"/>
 
 </div>
