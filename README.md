@@ -101,7 +101,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=darcula&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dronabopche&theme=vision-friendly-dark&hide_border=true" width="70%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=dronabopche&theme=nightowl&no-frame=true&row=1&column=7" width="100%" />
 
