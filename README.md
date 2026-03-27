@@ -1,4 +1,4 @@
-# Hi, I'm Drona 👨‍💻
+# Hi, I'm Drona
 
 **AI/ML Developer | Quantum Computing Enthusiast | Flutter Problem Solver**  
 *Building digital experiences that matter*
@@ -52,9 +52,9 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-## 🌟 Featured Project Collections
+##  Featured Project Collections
 
-### **⚛️ 100 Quantum Computing Projects**
+### ** 100 Quantum Computing Projects**
 
 [![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Project)
 
@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-### **🤖 100 AI / Machine Learning Projects**
+### ** 100 AI / Machine Learning Projects**
 
 [![Repo](https://img.shields.io/badge/GitHub-100--AI--ML--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-ML-AI-Project)
 
@@ -74,7 +74,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-### **📱 100 Flutter Projects**
+### ** 100 Flutter Projects**
 
 [![Repo](https://img.shields.io/badge/GitHub-100--Flutter--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Flutter-Project)
 
