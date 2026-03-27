@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ##  Featured Project Collections
 
-### ** 100 Quantum Computing Projects**
+### 100 Quantum Computing Projects
 
 [![Repo](https://img.shields.io/badge/GitHub-100--Quantum--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Quantum-Project)
 
@@ -64,23 +64,13 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
-### ** 100 AI / Machine Learning Projects**
+### 100 AI/ML Projects
 
 [![Repo](https://img.shields.io/badge/GitHub-100--AI--ML--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-ML-AI-Project)
 
 > End-to-end **AI & ML projects built from scratch**, emphasizing mathematical intuition, model implementation, and real-world datasets.
 
 **Focus Areas:** ML from Scratch | Classical ML | Applied AI | Model Evaluation
-
----
-
-### ** 100 Flutter Projects**
-
-[![Repo](https://img.shields.io/badge/GitHub-100--Flutter--Projects-black?style=for-the-badge\&logo=github)](https://github.com/dronabopche/100-Flutter-Project)
-
-> A continuously growing repository of **100 Flutter applications**, covering UI design, animations, Firebase integration, performance optimization, and production-ready architectures.
-
-**Focus Areas:** Flutter UI/UX | Animations | Firebase | Scalable App Design
 
 ---
 
