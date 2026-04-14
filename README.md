@@ -131,14 +131,31 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ## 📬 Let's Connect & Collaborate
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-dronabopche@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dronabopche@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dronabopche)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/dronabopche/)
-
-</div>
-
+<details open>
+  <summary> 🔦 Profiles: </summary>
+   <table>
+     <tr>
+       <td> <a href="https://www.linkedin.com/in/dronabopche/"> Linkedin </a></td>
+       <td> <a href="https://medium.com/@dronabopche"> Medium </a></td>
+       <td> <a href="https://dronabopche.vercel.app/"> Portfolio </a></td>
+       <td> <a href="https://leetcode.com/dronabopche/"> Leetcode </a></td>
+       <td> <a href="https://huggingface.co/dronabopche"> HuggingFace </a></td>
+       <td> <a href="https://app.datacamp.com/portfolio/dronabopche"> DataCamp </a></td>
+       <td> <a href="https://codeforces.com/profile/dronabopche"> CodeForces </a></td>
+       <td> <a href="https://www.kaggle.com/dronabopche"> Kaggle </a></td>
+     </tr>
+     <tr>
+<td><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><br></td>
+<td><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio%20-%20orange"><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode%20-%20darkorange"><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/HuggingFace%20-%20darkblue"><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/DataCamp%20-%20darkgreen"><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/codeforces%20-%20black"><br></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle%20-%20lightblue"><br></td>
+     </tr>
+  </table>
+</details>
 ---
 
 <div align="center">
