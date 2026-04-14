@@ -1,6 +1,6 @@
 # Hi, I'm Drona
 
-**AI/ML Developer | Quantum Computing Enthusiast | Flutter Problem Solver**  
+**AI/ML Developer | Quantum Computing Enthusiast | QML Problem Solver**  
 *Building digital experiences that matter*
 
 <div align="center">
