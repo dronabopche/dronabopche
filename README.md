@@ -129,6 +129,18 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 
 ---
 
+<div align="center">
+
+<img src="assets/logo1.png" alt="Drona logo" width="50%">
+
+### **“Code is poetry, and every bug is just a misplaced rhyme.”**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dronabopche\&color=blueviolet\&style=flat-square)
+
+</div>
+
+---
+
 ## 📬 Let's Connect & Collaborate
 
 <details open>
@@ -156,17 +168,6 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
      </tr>
   </table>
 </details>
----
-
-<div align="center">
-
-<img src="assets/logo1.png" alt="Drona logo" width="50%">
-
-### **“Code is poetry, and every bug is just a misplaced rhyme.”**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=dronabopche\&color=blueviolet\&style=flat-square)
-
-</div>
 
 ---
 
