@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/cover.png" alt="Drona Banner" width="100%">
+<img src="assets/covers.png" alt="Drona Banner" width="100%">
 
 </div>
 
