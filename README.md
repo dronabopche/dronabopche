@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="assets/banner1.png" alt="Drona Banner" width="100%">
+<img src="assets/cover.png" alt="Drona Banner" width="100%">
 
 </div>
 
@@ -51,6 +51,12 @@ Welcome to my GitHub! I'm a passionate developer crafting beautiful mobile apps 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
+
+<div align="center">
+
+<img src="assets/banner1.png" alt="Drona Banner" width="100%">
+
+</div>
 
 ##  Featured Project Collections
 
